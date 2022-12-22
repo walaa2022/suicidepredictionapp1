@@ -1,0 +1,5 @@
+streamlit
+pickle
+base64
+pandas
+sklearn
