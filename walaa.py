@@ -2,7 +2,7 @@ import streamlit as st
 import pickle as pkl
 import base64
 import pandas as pd
-# import sklearn
+import sklearn
 
 
 
