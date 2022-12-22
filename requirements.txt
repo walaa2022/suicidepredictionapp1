@@ -1,4 +1,3 @@
-pickle
 base64
 pandas
 scikit-learn
