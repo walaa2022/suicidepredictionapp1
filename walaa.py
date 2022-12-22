@@ -2,8 +2,6 @@ import streamlit as st
 import pickle as pkl
 import base64
 import pandas as pd
-import sklearn
-
 
 
 st.image ('https://www.chathamsafetynet.org/wp-content/uploads/2021/08/Copy-of-Copy-of-PST-Logo-background-e1628697628477.png')
